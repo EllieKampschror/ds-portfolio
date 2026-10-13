@@ -1,0 +1,16 @@
+Job 1: 
+A.	Principal Data Scientist (seniority level: principal)
+B.	Skills: Advanced mathematics and statistics, programming languages, big data and scalable engineering, machine learning and AI, technical leadership and mentoring, communication, advanced education like master’s degree, prior knowledge with specific product ecosystems such as windows, copilot
+C.	Preferred skills: advanced education like master’s degree, prior knowledge with specific product ecosystems such as windows, copilot (everything else from above is required)
+
+Job 2: 
+A.	Principal Data Scientist (seniority level: principal)
+B.	Skills: Statistical modeling, communication, experimentation, technical leadership, teamwork, critical thinking, master’s degree or PhD in data science, computer science, or economics
+C.	Preferred skills: master’s degree or PhD in data science, computer science, or economics (everything else from above is required)
+
+Skills from both listings: advanced mathematics and statistics, communication, preferred master's degree, critical thinking
+
+Standouts: both jobs had a lot of extra wording surrounding required skills, 
+  but had similar NACE competencies. Both postings were for principal data scientists, 
+  so the skills required are much less than for a senior data scientist position. Most 
+  job postings found had similar skills such as communication and teamwork, but differed in specific skills for technology. 
