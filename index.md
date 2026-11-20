@@ -9,6 +9,7 @@ NACE:
 - Organization
 - Teamwork
 - Communication
+
 TECHNICAL:
 - Mathematical problem solving
 - Programming in Java (in progress)
